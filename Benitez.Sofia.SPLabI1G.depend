@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1625530444 source:c:\users\sofia\onedrive\desktop\utn\laboratorio 1 - programacion 1\benitez.sofia.splabi1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625523855 c:\users\sofia\onedrive\desktop\utn\laboratorio 1 - programacion 1\benitez.sofia.splabi1g\linkedlist.h
+
+1625530669 source:c:\users\sofia\onedrive\desktop\utn\laboratorio 1 - programacion 1\benitez.sofia.splabi1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"utn.h"
+	"paises.h"
+	"parsers.h"
+	"informes.h"
+
+1625526654 source:c:\users\sofia\onedrive\desktop\utn\laboratorio 1 - programacion 1\benitez.sofia.splabi1g\parsers.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parsers.h"
+	"LinkedList.h"
+	"paises.h"
+
+1625529480 c:\users\sofia\onedrive\desktop\utn\laboratorio 1 - programacion 1\benitez.sofia.splabi1g\parsers.h
+	"LinkedList.h"
+
+1624056252 source:c:\users\sofia\onedrive\desktop\utn\laboratorio 1 - programacion 1\benitez.sofia.splabi1g\utn.c
+	"utn.h"
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1624056265 c:\users\sofia\onedrive\desktop\utn\laboratorio 1 - programacion 1\benitez.sofia.splabi1g\utn.h
+
+1625530517 c:\users\sofia\onedrive\desktop\utn\laboratorio 1 - programacion 1\benitez.sofia.splabi1g\paises.h
+	"LinkedList.h"
+
+1625529091 source:c:\users\sofia\onedrive\desktop\utn\laboratorio 1 - programacion 1\benitez.sofia.splabi1g\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paises.h"
+	"LinkedList.h"
+
+1625530312 source:c:\users\sofia\onedrive\desktop\utn\laboratorio 1 - programacion 1\benitez.sofia.splabi1g\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paises.h"
+	"informes.h"
+	"LinkedList.h"
+
+1625530155 c:\users\sofia\onedrive\desktop\utn\laboratorio 1 - programacion 1\benitez.sofia.splabi1g\informes.h
+
